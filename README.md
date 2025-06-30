@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Saniya Raj!  
 
-### 📚 Mathematics (Hons.) Student | Banaras Hindu University  
+### 📚Msc. Mathematics Student | Indian Institute of Technology(IIT) Patna
 
 🔢 Passionate about **Mathematical Problem-Solving, Optimization, and Computational Techniques**  
 💻 Exploring **MATLAB, LaTeX, C Programming, AI Tools, and Software Development**  
@@ -9,8 +9,9 @@
 ---
 
 ## 🚀 About Me  
-- 🎓 **Final-year B.Sc. Mathematics (Hons.)** student with **Computer Science & Physics** as subsidiary subjects.  
-- 🏆 **9.21 CGPA** holder, ranking among the top students in my course.  
+-    Msc mathematics(core) student at Indian Institue of Technology Patna.
+- 🎓 ** B.Sc. Mathematics (Hons.)** student with **Computer Science & Physics** as subsidiary subjects from Banaras Hindu University. 
+- 🏆 **9.02 CGPA** holder, ranking among the top students in my course.  
 - 🎥 Previously ran a **YouTube channel (Maths Lover Point)**, creating educational content on **mathematical concepts**.  
 - 🏸 Enjoys **Badminton** and following **emerging trends in AI and mathematical research**.  
 - 🌟 **Believer in logical thinking, structured problem-solving, and lifelong learning.**  

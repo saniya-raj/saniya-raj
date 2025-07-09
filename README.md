@@ -47,12 +47,6 @@
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saniya-raj&show_icons=true&theme=calm" alt="GitHub Stats" width="430"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=saniya-raj&theme=calm&date_format=M%20j%5B%2C%20Y%5D" width="430"/>
-</p>
 
 ---
 

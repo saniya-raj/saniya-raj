@@ -1,58 +1,72 @@
-# 👋 Hi, I'm Saniya Raj!  
-
-### 📚Msc. Mathematics Student | Indian Institute of Technology(IIT) Patna
-
-🔢 Passionate about **Mathematical Problem-Solving, Optimization, and Computational Techniques**  
-💻 Exploring **MATLAB, LaTeX, C Programming, AI Tools, and Software Development**  
-🎯 Preparing for **Junior Research Fellowship Mathematics**, focusing on **Linear Algebra, Real Analysis, and Abstract Algebra**  
+<h1 align="center">Hi there! 👋 I'm Saniya Raj</h1>
+<h3 align="center">A Tech Enthusiast | Math Graduate | Passionate about Machine Learning & Web Development</h3>
 
 ---
 
-## 🚀 About Me  
--    Msc mathematics(core) student at Indian Institue of Technology Patna.
-- 🎓 ** B.Sc. Mathematics (Hons.)** student with **Computer Science & Physics** as subsidiary subjects from Banaras Hindu University. 
-- 🏆 **9.02 CGPA** holder, ranking among the top students in my course.  
-- 🎥 Previously ran a **YouTube channel (Maths Lover Point)**, creating educational content on **mathematical concepts**.  
-- 🏸 Enjoys **Badminton** and following **emerging trends in AI and mathematical research**.  
-- 🌟 **Believer in logical thinking, structured problem-solving, and lifelong learning.**  
-
----
-
-## 🔧 Skills & Tools  
-
-### 🧮 **Mathematical & Analytical Skills**  
-- Linear Algebra | Calculus | Differential Equations | Optimization  
-
-<hr> 
-<h3 align="center">💻 **Coding & Technical Skills** </h3>
 <p align="center">
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/640px-JavaScript-logo.png" alt="javascript" width="40" height="40"/> </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://banner2.cleanpng.com/20180425/jrw/kisspng-node-js-javascript-web-application-express-js-comp-5ae0f84e2a4242.1423638015246930701731.jpg" alt="nodejs" width="40" height="40"/> </a> 
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
-<a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
- <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-   
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a><a href="https://d3js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a><a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
-<hr>
- 
-
-### 🤖 **AI & Research**  
-- Proficiency in AI tools like ChatGPT for **learning, research, and problem-solving**  
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" />
+</p>
 
 ---
 
-## 📫 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Saniya%20Raj-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/saniya-raj-5732bb250/)  
-[![GitHub](https://img.shields.io/badge/GitHub-Saniya%20Raj-lightgrey?style=flat-square&logo=github)](https://github.com/saniya-raj)  
+### 👩‍🎓 About Me
+
+🎓 I'm currently a Mathematics Msc scholar at **IIT Patna (Indian Institute of Technology Patna)** with a strong passion for applying analytical thinking to solve real-world problems using technology.
+
+💻 I enjoy building machine learning models, visualizing data insights, and deploying interactive web applications that make ML approachable for everyone.
+
+🌱 Currently learning and experimenting with:
+- Data Science & Machine Learning
+- Streamlit App Deployment
+- Backend with Flask/Django
 
 ---
 
-### 🏆 Fun Fact:  
-*"Mathematics is the poetry of logical ideas."* – Albert Einstein  
+### 🧠 Skills
+
+| 💡 Programming | 📊 Data/ML Tools     | 🌐 Web/Dev Tools    |
+|---------------|---------------------|---------------------|
+| Python        | Pandas, NumPy       | Streamlit, Flask    |
+| C++/C         | scikit-learn, Matplotlib | Git & GitHub     |
+| LaTeX         | Seaborn, Jupyter    | HTML/CSS, SQL       |
 
 ---
 
-💡 **"Turning equations into intuition, one theorem at a time!"** 🚀  
+### 🚀 Featured Project
+
+#### 🔮 [Customer Churn Prediction ML Web App](https://my-ml-web-app.streamlit.app/)
+
+> A web-based ML app that predicts telecom customer churn using various classification models. Includes visualization, model evaluation, and an intuitive interface built with Streamlit.
+
+📌 **Highlights:**
+- Trained with Logistic Regression, KNN, SVM, Random Forest, Decision Tree
+- Interactive gender-based churn analysis using Seaborn
+- Deployed seamlessly on Streamlit Cloud
+
+📎 [GitHub Repository](https://github.com/saniya-raj/ML_Web_App)
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=saniya-raj&show_icons=true&theme=calm" alt="GitHub Stats" width="430"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=saniya-raj&theme=calm&date_format=M%20j%5B%2C%20Y%5D" width="430"/>
+</p>
+
+---
+
+### 📫 Let's Connect!
+
+- 🔗 [LinkedIn](https://www.linkedin.com/in/saniya-raj-5732bb250/)
+- 🌐 Portfolio: _Coming soon!_
+
+---
+
+### 🏁 Fun Fact
+
+I love turning equations into elegant code. Whether it's solving problems or building apps, I believe in *math-powered logic meets real-world magic!* ✨
+
+---
+
+_Thanks for visiting my profile! 💙_
